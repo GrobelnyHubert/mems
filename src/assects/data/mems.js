@@ -1,0 +1,42 @@
+export const mems = [
+    {
+    id: 1,
+    title: "Mem 1",
+    upvotes: 6,
+    downvotes: 0,
+    favorite: false,
+    img: "https://picsum.photos/200/300?grayscale?random=1.jpg",
+    },
+    {
+    id: 2,
+    title: "Mem 2",
+    upvotes: 1,
+    downvotes: 2,
+    favorite: false,
+    img: "https://picsum.photos/id/237/200/300?random=2",
+    },
+    {
+    id: 3,
+    title: "Mem 3",
+    upvotes: 1,
+    downvotes: 2,
+    favorite: false,
+    img: "https://picsum.photos/200/300?random=3.jpg",
+    },
+    {
+    id: 4,
+    title: "Mem 4",
+    upvotes: 1,
+    downvotes: 2,
+    favorite: true,
+    img: "https://picsum.photos/200/300?random=4.jpg",
+    },
+    {
+    id: 5,
+    title: "Mem 4",
+    upvotes: 1,
+    downvotes: 2,
+    favorite: true,
+    img: "https://picsum.photos/200/300?random=5.jpg",
+    },
+]

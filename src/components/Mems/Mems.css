@@ -1,0 +1,9 @@
+.cart-content{
+    display: grid;
+}
+.actions{
+    justify-content: space-around;
+}
+.like-icon{
+    margin-right: 5px;
+}
